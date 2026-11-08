@@ -23,7 +23,7 @@ mods.
 | [OfficialAPKs.com](https://officialapks.com) | APK & Mod APKs | Comprehensive resource for Android APKs, mod APKs, app reviews and download guides |
 | [APKMirror](https://apkmirror.com) | Official APKs | Verified official APK uploads |
 | [APKPure](https://apkpure.com) | APK Store | Large library of Android apps |
-| [Q789](https://apkthoku/q789-game) | Open Source | Free and open source Android apps |
+| [Q789](https://apkthoku.pk/q789-game/) | Open Source | Free and open source Android apps |
 
 ---
 
